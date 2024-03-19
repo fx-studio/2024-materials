@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='01_POP'/>
+        <page name='02_ProtocolConform'/>
+        <page name='03_EnumStructClass'/>
+        <page name='04_ProtocolExtension'/>
+        <page name='05_EnumWithAssociatedValues'/>
+        <page name='06_EnumReplacementClass'/>
+        <page name='07_ProtocolInheritance'/>
+        <page name='08_ProtocolTypes'/>
+        <page name='09_ProtocolCheckingAndCasting'/>
+        <page name='10_ProtocolWithAssociatedTypes'/>
+        <page name='11_GenericConstraints'/>
+        <page name='12_ProtocolWithSelf'/>
+        <page name='13_InitializerRequirements'/>
+        <page name='14_DiamondProblem'/>
+        <page name='15_OOP_to_POP'/>
+    </pages>
+</playground>
