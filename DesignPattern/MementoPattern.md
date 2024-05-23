@@ -1,5 +1,7 @@
 # Memento Pattern trong Swift
 
+> *Đọc bài viết trên [Fx Studio](https://fxstudio.dev/memento-pattern-trong-10-phut/)*
+
 ## Memento Pattern là gì?
 
 ## Khái niệm

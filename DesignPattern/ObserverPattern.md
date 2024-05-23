@@ -1,5 +1,7 @@
 # Observer Pattern trong Swift
 
+> *Đọc bài viết trên [Fx Studio](https://fxstudio.dev/observer-pattern-trong-10-phut/)*
+
 ## Observer Pattern là gì?
 
 ### Khái niệm

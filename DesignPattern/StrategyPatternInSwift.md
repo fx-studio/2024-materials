@@ -1,5 +1,7 @@
 # Strategy pattern in Swift
 
+> *Đọc bài viết trên [Fx Studio](https://fxstudio.dev/strategy-pattern-trong-10-phut/)*
+
 ## Strategy pattern là gì?
 
 **Strategy Pattern** là một mẫu thiết kế hành vi *(Behavioral Design Pattern)* trong lập trình hướng đối tượng. Mẫu này cho phép bạn định nghĩa một họ các thuật toán, đóng gói mỗi một trong chúng và làm cho chúng có thể hoán đổi lẫn nhau. **Strategy** cho phép thuật toán biến đổi độc lập với các clients sử dụng nó.

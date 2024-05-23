@@ -1,5 +1,7 @@
 # Builder Pattern
 
+> *Đọc bài viết trên [Fx Studio](https://fxstudio.dev/builder-pattern-trong-10-phut/)*
+
 ## Builder Pattern là gì?
 
 ### Khái niệm
